@@ -1,0 +1,18 @@
+============================================================
+CUSTOMER SENTIMENT THEMES & OPINION ANALYSIS REPORT
+============================================================
+
+1. KEYWORD SIGNALS DRIVING EACH SENTIMENT:
+
+* POSITIVE Reviews: quality, works, app, customer, amazing, 24, premium, 24 hours
+* NEUTRAL Reviews: okay, fine, performance, battery, acceptable, does, average, expected
+* NEGATIVE Reviews: extremely, waste, money, terrible, hours, battery, defective, packaging
+
+2. LATENT THEMES EXTRACTED VIA TOPIC MODELING (LDA):
+
+* Theme A (Battery, Performance & Everyday Reliability):
+  Keywords: fine, sound, packaging, purchase, calls, device, bass, item
+* Theme B (Delivery, Packaging & Customer Support):
+  Keywords: battery, quality, build, acceptable, average, does, build quality, waste
+* Theme C (Audio Quality, Build Finish & Software Ease):
+  Keywords: impressed, disappointed, great, works, box, reasonable, product, customer
